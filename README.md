@@ -26,7 +26,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hotel-booking-cancellation-analysis.git
+git clone https://github.com/shaadclt/Hotel-Booking-Analysis-Python.git
 ```
 
 2. Install the required dependencies by running:
